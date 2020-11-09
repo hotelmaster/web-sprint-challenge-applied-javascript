@@ -88,7 +88,7 @@ axios.get(URL)
         }
     })
     .catch(err => {
-        debugger
+        alert(err);
     });
 
 // res.data.articles[0], ... etc
