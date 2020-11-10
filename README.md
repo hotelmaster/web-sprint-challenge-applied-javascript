@@ -44,7 +44,7 @@ A: Using the Array.from() method to convert a nodelist from the DOM to an array 
 
 5. What is a component?
 
-A: Refering to a single component may include multiple html elements each with style properties, event listeners, nesting relations, and a particular functionality. One example of a component may be a button with a click event listener and a background color.
+A: Refering to a single component may include multiple html elements each with style properties, event listeners, nesting relations, and a particular functionality that makes it reusable. One example of a component may be a button with a click event listener and a background color.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
