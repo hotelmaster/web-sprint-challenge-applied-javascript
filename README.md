@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+A: The DOM (document object model) is a language independent interface between the html and what is seen on the browser page which uses a logical tree-like structure, representing the html document, containing nodes in which each node is an object and can be accessed for storeage, manipulation, and more.
+
 2. What is an event?
+
+A: Events are how users interact with webpages, some examples include 'click', 'mouseup', 'wheel', 'load', 'contextmenu'/'rightclick', 'dblclick', etc. When an event happens on a webpage, the developer has the option of adding event listeners for them, and keeping track of user activity on a page.
 
 3. What is an event listener?
 
+A: Event listeners are methods that make a webpage aware that an event/user activity has occured and will give the developer a way to program event responses or event handlers, such as style changes or keeping records in the cosole as in the card.js file on this sprint challenge.
+
 4. Why would we convert a NodeList into an Array?
 
+A: Using the Array.from() method to convert a nodelist from the DOM to an array allows the developer to apply advanced array methods to data structures within the document.
+
 5. What is a component?
+
+A: Refering to a single component may include multiple html elements each with style properties, event listeners, nesting relations, and a particular functionality. One example of a component may be a button with a click event listener and a background color.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
